@@ -1,0 +1,2 @@
+rootProject.name='Spinner Using Kotlin'
+include ':app'
